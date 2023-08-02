@@ -56,4 +56,9 @@ body{
  } 
  .rodape{
     background-color: rgb(71, 66, 66);
-    text-align: center;
+    text-align: center;}
+  .rodape-imagem{
+    height: 80px;
+    padding: 12px 0;
+  }
+
