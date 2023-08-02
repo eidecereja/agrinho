@@ -16,7 +16,7 @@ body{
     align-items: center;
     padding: 24px;
 }
-.cabeçalho-lista-item {
+.cabecalho-lista-item {
     display: inline-block; 
     margin: 0 16px; 
     font-size: 24px;    
