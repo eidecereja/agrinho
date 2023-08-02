@@ -28,6 +28,9 @@ body{
     align-items: center;
     padding: 24px 0;
  }
+ .estudante-imagem{
+    width: 120px;
+ }
  .escola-div-conteudo{
     width: 35%;
  }
