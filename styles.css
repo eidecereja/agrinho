@@ -27,7 +27,12 @@ body{
     justify-content: center;
     align-items: center;
     padding: 24px 0;
- }
+    
+    }
+    .escola-imagem{
+        width: 05%;
+    }
+ 
  .estudante-imagem{
     width: 120px;
  }
@@ -39,7 +44,7 @@ body{
     padding: 24px 0;
  }
  .estudante-imagem{
-    width: 50px;
+    width: 120px;
  }
  
  .estudante-div{
